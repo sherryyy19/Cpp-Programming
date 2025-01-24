@@ -1,2 +1,2 @@
 # Cpp-Programming
-C++ programming lgorithms from Basic to Advance level.!
+C++ Programming Algorithms from Basic to Advance level.!
